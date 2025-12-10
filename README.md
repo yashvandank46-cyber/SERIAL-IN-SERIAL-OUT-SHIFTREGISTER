@@ -65,7 +65,8 @@ RegisterNumber:25017523
 
 
 
-<img width="953" height="585" alt="Screenshot 2025-12-10 175645" src="https://github.com/user-attachments/assets/bac42e0b-50e9-486b-8527-6902baf0f331" />
+<img width="1121" height="411" alt="Screenshot 2025-12-10 175958" src="https://github.com/user-attachments/assets/73c38e67-b5a2-4930-8311-c06edb862dfe" />
+
 
 
 **TIMING DIGRAMS FOR SISO Shift Register**
